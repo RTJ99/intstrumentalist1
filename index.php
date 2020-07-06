@@ -20,7 +20,7 @@
                 <li><a href="index.html" class="current" >Home</a></li>
                 <li><a href="products.html">Products</a></li>
                 <li><a href="services.html">Services</a></li>
-                <li><a href="enquiries.html">Enquiries</a></li>
+                <li><a href="enquiries.php">Enquiries</a></li>
                 
             </ul>
         
