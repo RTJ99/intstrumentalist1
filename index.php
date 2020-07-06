@@ -21,7 +21,7 @@
                 <li><a href="products.html">Products</a></li>
                 <li><a href="services.html">Services</a></li>
                 <li><a href="enquiries.php">Enquiries</a></li>
-		    <li><a href="login.php">Enquiries</a><li>
+		    <li><a href="login.php">Login</a><li>
                 
             </ul>
         
